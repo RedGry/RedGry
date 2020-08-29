@@ -1,4 +1,9 @@
 ### Hi there, I'm Egor - aka RedGry 😎
+<p align="left"> 
+  <img src=https://komarev.com/ghpvc/?username=RedGry&color=C70039&label=PROFILE+VIEWS alt=RedGry/> 
+  <img src=https://badges.pufler.dev/years/redgry alt=RedGry/> 
+</p>
+
 
 
 ## I'm a novice developer!
@@ -32,6 +37,14 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="RedGry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=redgry&show_icons=true&theme=dracula" />
+</details>
 
 [website]: https://vk.com/egoredgry
 [instagram]: https://www.instagram.com/egor_redgry/
