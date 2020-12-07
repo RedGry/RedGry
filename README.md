@@ -8,7 +8,7 @@
 
 ## I'm a novice developer!
 
-- 🔭 I’m currently working at [ITMO University][itmo]!
+- 🔭 I’m currently studying at [ITMO University][itmo]!
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I like to play games and collect things
 
@@ -25,13 +25,21 @@
 <img align="left" alt="JetBrains" width="26px" src="https://simpleicons.org/icons/jetbrains.svg" />
 <img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
 <img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />
+
 <img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />
+
 <img align="left" alt="PHP" width="26px" src="https://simpleicons.org/icons/php.svg" />
+
 <img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
+<img align="left" alt="jQuery" width="26px" src="http://simpleicons.org/icons/jquery.svg" />
+<img align="left" alt="Vue.js" width="26px" src="http://simpleicons.org/icons/vue-dot-js.svg" />
+
 <img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/svg/29/29165.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />
+<img align="left" alt="PostgreSQL" width="26px" src="http://simpleicons.org/icons/postgresql.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://simpleicons.org/icons/mongodb.svg" />
+
 <img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
