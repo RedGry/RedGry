@@ -14,9 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="RedGry" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="RedGry WebSite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="RedGry | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="RedGry | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="RedGry | Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" />][tg]
 
 <br />
 
@@ -33,7 +34,7 @@
 
 <img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
 <img align="left" alt="jQuery" width="26px" src="http://simpleicons.org/icons/jquery.svg" />
-<img align="left" alt="Vue.js" width="26px" src="http://simpleicons.org/icons/vue-dot-js.svg" />
+<img align="left" alt="Vue.js" width="26px" src="https://simpleicons.org/icons/vuedotjs.svg" />
 
 <img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/svg/29/29165.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />
@@ -57,4 +58,5 @@
 [website]: https://vk.com/egoredgry
 [instagram]: https://www.instagram.com/egor_redgry/
 [vk]: https://vk.com/egor_redgry
+[tg]: https://t.me/redgry
 [itmo]: https://itmo.ru
