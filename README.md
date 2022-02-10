@@ -14,36 +14,48 @@
 
 ### Connect with me:
 
-[<img align="left" alt="RedGry WebSite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="RedGry | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="RedGry | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="RedGry | Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" />][tg]
+[<img align="left" alt="RedGry | WebSite"   width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="RedGry | Email"     width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.9.0/icons/maildotru.svg" />][email]
+[<img align="left" alt="RedGry | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.9.0/icons/instagram.svg" />][instagram]
+[<img align="left" alt="RedGry | VK"        width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.9.0/icons/vk.svg" />][vk]
+[<img align="left" alt="RedGry | Telegram"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.9.0/icons/telegram.svg" />][tg]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="JetBrains" width="26px" src="https://simpleicons.org/icons/jetbrains.svg" />
-<img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
-<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />
+<img align="left" alt="Java"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="Python"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="PHP"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
-<img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />
+<br/><br/>
 
-<img align="left" alt="PHP" width="26px" src="https://simpleicons.org/icons/php.svg" />
+<img align="left" alt="HTML5"   width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="CSS3"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="Sass"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="left" alt="jQuery" width="26px" src="http://simpleicons.org/icons/jquery.svg" />
-<img align="left" alt="Vue.js" width="26px" src="https://simpleicons.org/icons/vuedotjs.svg" />
+<br /><br />
 
-<img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/svg/29/29165.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />
-<img align="left" alt="PostgreSQL" width="26px" src="http://simpleicons.org/icons/postgresql.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://simpleicons.org/icons/mongodb.svg" />
+<img align="left" alt="JavaScript"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="jQuery"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+<img align="left" alt="Vue.js"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+<img align="left" alt="React"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="Spring"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
-<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br /><br />
+
+<img align="left" alt="MySQL"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="PostgreSQL"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="MongoDB"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="Oracle"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+
+<br /><br />
+
+<img align="left" alt="JetBrains"   width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+<img align="left" alt="Figma"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="Git"         width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<img align="left" alt="GitHub"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img align="left" alt="Terminal"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 <br />
 <br />
@@ -51,11 +63,12 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>⚡ GitHub Stats</summary>
   <img align="left" alt="RedGry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=redgry&show_icons=true&theme=dracula" />
 </details>
 
 [website]: https://vk.com/egoredgry
+[email]: mailto:egor_redgry@vk.com
 [instagram]: https://www.instagram.com/egor_redgry/
 [vk]: https://vk.com/egor_redgry
 [tg]: https://t.me/redgry
