@@ -28,11 +28,11 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Java"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="Python"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="Kotlin"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
-<img align="left" alt="C++"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="PHP"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+[<img align="left" alt="Java"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />][java]
+[<img align="left" alt="Python"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />][python]
+[<img align="left" alt="Kotlin"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />][kotlin]
+[<img align="left" alt="C++"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />][cplusplus]
+[<img align="left" alt="PHP"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />][php]
 
 <br/><br/>
 
@@ -74,9 +74,17 @@
   <img align="left" alt="RedGry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=redgry&show_icons=true&theme=dracula" />
 </details>
 
+<!-- Links to my pages -->
 [website]: https://vk.com/egoredgry
 [email]: mailto:egor_redgry@vk.com
 [instagram]: https://www.instagram.com/egor_redgry/
 [vk]: https://vk.com/egor_redgry
 [tg]: https://t.me/redgry
 [itmo]: https://itmo.ru
+
+<!-- Links to tools and languages -->
+[java]: https://www.java.com/
+[python]: https://www.python.org/
+[kotlin]: https://kotlinlang.org/
+[cplusplus]: https://cplusplus.com/
+[php]: https://www.php.net/
