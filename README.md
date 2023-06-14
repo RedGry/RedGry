@@ -1,11 +1,7 @@
 ### Hi there, I'm Egor Krivonosov - aka RedGry 😎
 <p align="left"> 
   <img src=https://komarev.com/ghpvc/?username=RedGry&color=C70039&label=PROFILE+VIEWS alt=RedGry/> 
-  
-  <!--
-  FIX THIS :)
   <img src=https://badges.pufler.dev/years/redgry alt=RedGry/> 
-  -->
 </p>
 
 
@@ -30,8 +26,9 @@
 
 [<img align="left" alt="Java"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />][java]
 [<img align="left" alt="Python"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />][python]
-[<img align="left" alt="Kotlin"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />][kotlin]
+[<img align="left" alt="C#"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />][csharp]
 [<img align="left" alt="C++"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />][cplusplus]
+[<img align="left" alt="Kotlin"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />][kotlin]
 [<img align="left" alt="PHP"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />][php]
 
 <br/><br/>
@@ -47,6 +44,7 @@
 <img align="left" alt="Vue.js"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 <img align="left" alt="React"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="Spring"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt=".Net"        width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 
 <br /><br />
 
@@ -71,7 +69,7 @@
 
 <details>
   <summary>⚡ GitHub Stats</summary>
-  <img align="left" alt="RedGry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=redgry&show_icons=true&theme=dracula" />
+  <img align="left" alt="RedGry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=redgry&show_icons=true&theme=dracula&rank_icon=github" />
 </details>
 
 <!-- Links to my pages -->
@@ -87,4 +85,5 @@
 [python]: https://www.python.org/
 [kotlin]: https://kotlinlang.org/
 [cplusplus]: https://cplusplus.com/
+[csharp]: https://learn.microsoft.com/en-us/dotnet/csharp/
 [php]: https://www.php.net/
