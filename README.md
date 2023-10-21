@@ -1,4 +1,4 @@
-### Hi there, I'm Egor Krivonosov - aka RedGry 😎
+## Hi there, I'm Egor Krivonosov - aka RedGry 😎
 <p align="left"> 
   <img src=https://komarev.com/ghpvc/?username=RedGry&color=C70039&label=PROFILE+VIEWS alt=RedGry/> 
   <img src=https://badges.pufler.dev/years/redgry alt=RedGry/> 
@@ -6,11 +6,12 @@
 
 
 
-## I'm a novice developer!
+## I'm an advanced developer!
 
-- 🔭 I’m currently studying at [ITMO University][itmo]!
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I like to play games and collect things
+- 🔭 I’m currently studying at [ITMO University][itmo] for my Master's degree!
+- 👽 Learning any technology that appears on my way.
+- 🔥 Every year I try to improve myself.
+- ⚡ Fun fact: I enjoy playing volleyball, computer games, and collecting.
 
 ### Connect with me:
 
@@ -41,8 +42,8 @@
 
 <img align="left" alt="JavaScript"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="jQuery"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
-<img align="left" alt="Vue.js"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 <img align="left" alt="React"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="Vue.js"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 <img align="left" alt="Spring"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt=".Net"        width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 
@@ -50,6 +51,7 @@
 
 <img align="left" alt="MySQL"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="PostgreSQL"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="InfluxDB 2"  width="40px" src="https://api.iconify.design/devicon/influxdb.svg" />
 <img align="left" alt="MongoDB"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="Oracle"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 
@@ -57,7 +59,7 @@
 
 <img align="left" alt="JetBrains"   width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
 <img align="left" alt="Figma"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Selenium"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+<img align="left" alt="Selenium"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 <img align="left" alt="Git"         width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <img align="left" alt="GitHub"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="Terminal"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
