@@ -11,7 +11,7 @@
 - 🔭 I’m currently studying at [ITMO University][itmo] for my Master's degree!
 - 👽 Learning any technology that appears on my way.
 - 🔥 Every year I try to improve myself.
-- ⚡ Fun fact: I enjoy playing volleyball, computer games, and collecting.
+- ⚡ Fun fact: I enjoy playing volleyball, karting and collecting.
 
 ### Connect with me:
 
@@ -45,6 +45,7 @@
 <img align="left" alt="React"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="Vue.js"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 <img align="left" alt="Spring"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="FastAPI"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
 <img align="left" alt=".Net"        width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 
 <br /><br />
