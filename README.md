@@ -1,17 +1,18 @@
 ## Hi there, I'm Egor Krivonosov - aka RedGry 😎
 <p align="left"> 
   <img src=https://komarev.com/ghpvc/?username=RedGry&color=C70039&label=PROFILE+VIEWS alt=RedGry/> 
-  <img src=https://badges.pufler.dev/years/redgry alt=RedGry/> 
+
+[//]: # (  <img src=https://badges.pufler.dev/years/redgry alt=RedGry/> )
 </p>
 
 
 
 ## I'm an advanced developer!
 
-- 🔭 I’m currently studying at [ITMO University][itmo] for my Master's degree!
+- 🔭 I graduated from [ITMO University][itmo]. **Now, I have a master's degree with Honors.**
 - 👽 Learning any technology that appears on my way.
 - 🔥 Every year I try to improve myself.
-- ⚡ Fun fact: I enjoy playing volleyball, karting and collecting.
+- ⚡ Fun fact: I enjoy karting and collecting.
 
 ### Connect with me:
 
@@ -30,23 +31,25 @@
 [<img align="left" alt="C#"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />][csharp]
 [<img align="left" alt="C++"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />][cplusplus]
 [<img align="left" alt="Kotlin"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />][kotlin]
-[<img align="left" alt="PHP"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />][php]
+
+<br/><br/>
+
+<img align="left" alt="Spring"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="FastAPI"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt=".Net"        width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 
 <br/><br/>
 
 <img align="left" alt="HTML5"   width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS3"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="Sass"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="JavaScript"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="jQuery"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
 
 <br /><br />
 
-<img align="left" alt="JavaScript"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="jQuery"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
 <img align="left" alt="React"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="Vue.js"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-<img align="left" alt="Spring"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="FastAPI"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-<img align="left" alt=".Net"        width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 
 <br /><br />
 
@@ -63,7 +66,12 @@
 <img align="left" alt="Selenium"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 <img align="left" alt="Git"         width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <img align="left" alt="GitHub"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img align="left" alt="GitLab"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
+<img align="left" alt="BitBucket"   width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" />
 <img align="left" alt="Terminal"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Docker"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="Kubernetes"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+<img align="left" alt="SonarQube"   width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-plain-wordmark.svg" />
 
 <br />
 <br />
@@ -89,4 +97,3 @@
 [kotlin]: https://kotlinlang.org/
 [cplusplus]: https://cplusplus.com/
 [csharp]: https://learn.microsoft.com/en-us/dotnet/csharp/
-[php]: https://www.php.net/
