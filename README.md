@@ -80,7 +80,7 @@
 
 <details>
   <summary>⚡ GitHub Stats</summary>
-  <img align="left" alt="RedGry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=redgry&show_icons=true&theme=dracula&rank_icon=github" />
+  <img align="left" alt="RedGry's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=RedGry&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical" />
 </details>
 
 <!-- Links to my pages -->
