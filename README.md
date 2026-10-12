@@ -1,99 +1,261 @@
-## Hi there, I'm Egor Krivonosov - aka RedGry 😎
-<p align="left"> 
-  <img src=https://komarev.com/ghpvc/?username=RedGry&color=C70039&label=PROFILE+VIEWS alt=RedGry/> 
+<h1 align="center">Hi, I'm Egor Krivonosov – RedGry 😎</h1>
 
-[//]: # (  <img src=https://badges.pufler.dev/years/redgry alt=RedGry/> )
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RedGry&amp;color=c70039&amp;label=Profile%20views&amp;style=flat" alt="Profile views">
+  <a href="https://github.com/RedGry?tab=followers"><img src="https://img.shields.io/github/followers/RedGry?label=Followers&amp;style=flat&amp;color=0969da" alt="GitHub followers"></a>
 </p>
 
+- ☕ I'm currently a Java developer.
+- 🎓 Master's degree with honors from [ITMO University][itmo].
+- 👽 I enjoy learning new technologies and finding the right tools for the job.
+- 🔥 I keep improving my skills every year.
+- 🏎️ Outside of development, I enjoy karting and collecting.
 
+<div align="center">
 
-## I'm an advanced developer!
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/contacts/email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/contacts/email-light.svg"><img src="assets/contacts/email-light.svg" width="20" height="20" alt="Email" align="absmiddle"></picture>][email] Email &nbsp; · &nbsp; [<picture><source media="(prefers-color-scheme: dark)" srcset="assets/contacts/telegram-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/contacts/telegram-light.svg"><img src="assets/contacts/telegram-light.svg" width="20" height="20" alt="Telegram" align="absmiddle"></picture>][tg] Telegram &nbsp; · &nbsp; [<picture><source media="(prefers-color-scheme: dark)" srcset="assets/contacts/vk-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/contacts/vk-light.svg"><img src="assets/contacts/vk-light.svg" width="20" height="20" alt="VK" align="absmiddle"></picture>][vk] VK &nbsp; · &nbsp; [<picture><source media="(prefers-color-scheme: dark)" srcset="assets/contacts/instagram-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/contacts/instagram-light.svg"><img src="assets/contacts/instagram-light.svg" width="20" height="20" alt="Instagram" align="absmiddle"></picture>][instagram] Instagram
 
-- 🔭 I graduated from [ITMO University][itmo]. **Now, I have a master's degree with Honors.**
-- 👽 Learning any technology that appears on my way.
-- 🔥 Every year I try to improve myself.
-- ⚡ Fun fact: I enjoy karting and collecting.
+</div>
 
-### Connect with me:
+## Languages & tools
 
-[<img align="left" alt="RedGry | WebSite"   width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="RedGry | Email"     width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.9.0/icons/maildotru.svg" />][email]
-[<img align="left" alt="RedGry | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.9.0/icons/instagram.svg" />][instagram]
-[<img align="left" alt="RedGry | VK"        width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.9.0/icons/vk.svg" />][vk]
-[<img align="left" alt="RedGry | Telegram"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.9.0/icons/telegram.svg" />][tg]
+<table>
+  <thead>
+    <tr><th align="left" scope="col">Area</th><th colspan="7" align="center" scope="colgroup">Technologies</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th align="left" scope="row">Languages<br>&amp; backend</th>
+<td align="center">
 
-<br />
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/java.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/java.svg"><img src="assets/icons/light/java.svg" width="24" height="24" alt="Java"></picture>][java]<br>Java
 
-### Languages and Tools:
+</td>
+<td align="center">
 
-[<img align="left" alt="Java"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />][java]
-[<img align="left" alt="Python"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />][python]
-[<img align="left" alt="C#"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />][csharp]
-[<img align="left" alt="C++"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />][cplusplus]
-[<img align="left" alt="Kotlin"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />][kotlin]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/python.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/python.svg"><img src="assets/icons/light/python.svg" width="24" height="24" alt="Python"></picture>][python]<br>Python
 
-<br/><br/>
+</td>
+<td align="center">
 
-<img align="left" alt="Spring"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="FastAPI"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-<img align="left" alt=".Net"        width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+[<img src="assets/icons/cpp.svg" width="24" height="24" alt="C++">][cplusplus]<br>C++
 
-<br/><br/>
+</td>
+<td align="center">
 
-<img align="left" alt="HTML5"   width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="CSS3"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img align="left" alt="Sass"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="JavaScript"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="jQuery"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/kotlin.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/kotlin.svg"><img src="assets/icons/light/kotlin.svg" width="24" height="24" alt="Kotlin"></picture>][kotlin]<br>Kotlin
 
-<br /><br />
+</td>
+<td align="center">
 
-<img align="left" alt="React"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="Vue.js"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/spring.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/spring.svg"><img src="assets/icons/light/spring.svg" width="24" height="24" alt="Spring"></picture>][spring]<br>Spring
 
-<br /><br />
+</td>
+<td align="center">
 
-<img align="left" alt="MySQL"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="PostgreSQL"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="InfluxDB 2"  width="40px" src="https://api.iconify.design/devicon/influxdb.svg" />
-<img align="left" alt="MongoDB"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="Oracle"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+[<img src="assets/icons/fastapi.svg" width="24" height="24" alt="FastAPI">][fastapi]<br>FastAPI
 
-<br /><br />
+</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="left" scope="row">Frontend</th>
+<td align="center">
 
-<img align="left" alt="JetBrains"   width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-<img align="left" alt="Figma"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Selenium"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-<img align="left" alt="Git"         width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-<img align="left" alt="GitHub"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-<img align="left" alt="GitLab"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />
-<img align="left" alt="BitBucket"   width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" />
-<img align="left" alt="Terminal"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Docker"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="Kubernetes"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-<img align="left" alt="SonarQube"   width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-plain-wordmark.svg" />
+[<img src="assets/icons/html.svg" width="24" height="24" alt="HTML5">][html]<br>HTML5
 
-<br />
-<br />
+</td>
+<td align="center">
 
----
+[<img src="assets/icons/css.svg" width="24" height="24" alt="CSS3">][css]<br>CSS3
+
+</td>
+<td align="center">
+
+[<img src="assets/icons/sass.svg" width="24" height="24" alt="Sass">][sass]<br>Sass
+
+</td>
+<td align="center">
+
+[<img src="assets/icons/javascript.svg" width="24" height="24" alt="JavaScript">][javascript]<br>JavaScript
+
+</td>
+<td align="center">
+
+[<img src="assets/icons/jquery.svg" width="24" height="24" alt="jQuery">][jquery]<br>jQuery
+
+</td>
+<td align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/react.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/react.svg"><img src="assets/icons/light/react.svg" width="24" height="24" alt="React"></picture>][react]<br>React
+
+</td>
+<td align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/vuejs.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/vuejs.svg"><img src="assets/icons/light/vuejs.svg" width="24" height="24" alt="Vue.js"></picture>][vuejs]<br>Vue.js
+
+</td>
+    </tr>
+    <tr>
+      <th align="left" scope="row">Databases</th>
+<td align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/mysql.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/mysql.svg"><img src="assets/icons/light/mysql.svg" width="24" height="24" alt="MySQL"></picture>][mysql]<br>MySQL
+
+</td>
+<td align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/postgresql.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/postgresql.svg"><img src="assets/icons/light/postgresql.svg" width="24" height="24" alt="PostgreSQL"></picture>][postgresql]<br>PostgreSQL
+
+</td>
+<td align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/influxdb.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/influxdb.svg"><img src="assets/icons/light/influxdb.svg" width="24" height="24" alt="InfluxDB 3"></picture>][influxdb]<br>InfluxDB&nbsp;3
+
+</td>
+<td align="center">
+
+[<img src="assets/icons/mongodb.svg" width="24" height="24" alt="MongoDB">][mongodb]<br>MongoDB
+
+</td>
+<td align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/oracle.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/oracle.svg"><img src="assets/icons/light/oracle.svg" width="24" height="24" alt="Oracle"></picture>][oracle]<br>Oracle
+
+</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th align="left" scope="row">DevOps &amp; Git</th>
+<td align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/git.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/git.svg"><img src="assets/icons/light/git.svg" width="24" height="24" alt="Git"></picture>][git]<br>Git
+
+</td>
+<td align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/github.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/github.svg"><img src="assets/icons/light/github.svg" width="24" height="24" alt="GitHub"></picture>][github]<br>GitHub
+
+</td>
+<td align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/gitlab.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/gitlab.svg"><img src="assets/icons/light/gitlab.svg" width="24" height="24" alt="GitLab"></picture>][gitlab]<br>GitLab
+
+</td>
+<td align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/bitbucket.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/bitbucket.svg"><img src="assets/icons/light/bitbucket.svg" width="24" height="24" alt="Bitbucket"></picture>][bitbucket]<br>Bitbucket
+
+</td>
+<td align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/bash.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/bash.svg"><img src="assets/icons/light/bash.svg" width="24" height="24" alt="Bash"></picture>][bash]<br>Bash
+
+</td>
+<td align="center">
+
+[<img src="assets/icons/docker.svg" width="24" height="24" alt="Docker">][docker]<br>Docker
+
+</td>
+<td align="center">
+
+[<img src="assets/icons/kubernetes.svg" width="24" height="24" alt="Kubernetes">][kubernetes]<br>Kubernetes
+
+</td>
+    </tr>
+    <tr>
+      <th align="left" scope="row">Tools &amp; AI</th>
+<td align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/jetbrains.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/jetbrains.svg"><img src="assets/icons/light/jetbrains.svg" width="24" height="24" alt="JetBrains"></picture>][jetbrains]<br>JetBrains
+
+</td>
+<td align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/figma.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/figma.svg"><img src="assets/icons/light/figma.svg" width="24" height="24" alt="Figma"></picture>][figma]<br>Figma
+
+</td>
+<td align="center">
+
+[<img src="assets/icons/selenium.svg" width="24" height="24" alt="Selenium">][selenium]<br>Selenium
+
+</td>
+<td align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/sonarqube.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/sonarqube.svg"><img src="assets/icons/light/sonarqube.svg" width="24" height="24" alt="SonarQube"></picture>][sonarqube]<br>SonarQube
+
+</td>
+<td align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/codex.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/codex.svg"><img src="assets/icons/light/codex.svg" width="24" height="24" alt="Codex"></picture>][codex]<br>Codex
+
+</td>
+<td align="center">
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/dark/cursor.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/light/cursor.svg"><img src="assets/icons/light/cursor.svg" width="24" height="24" alt="Cursor"></picture>][cursor]<br>Cursor
+
+</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 <details>
-  <summary>⚡ GitHub Stats</summary>
-  <img align="left" alt="RedGry's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=RedGry&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical" />
+<summary>⚡ GitHub Stats</summary>
+
+<p align="center">
+  <a href="https://github.com/RedGry?tab=repositories">Repositories</a> · <a href="https://github.com/RedGry?tab=overview">Recent activity</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RedGry">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=RedGry&amp;rank_icon=github&amp;show_icons=true&amp;include_all_commits=true&amp;disable_animations=true&amp;theme=radical">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=RedGry&amp;rank_icon=github&amp;show_icons=true&amp;include_all_commits=true&amp;disable_animations=true&amp;theme=default">
+      <img src="https://github-stats-extended.vercel.app/api?username=RedGry&amp;rank_icon=github&amp;show_icons=true&amp;include_all_commits=true&amp;disable_animations=true&amp;theme=default" alt="RedGry's GitHub Stats — stars, commits, pull requests and contributions" width="467">
+    </picture>
+  </a>
+</p>
+
 </details>
 
 <!-- Links to my pages -->
-[website]: https://vk.com/egoredgry
 [email]: mailto:egor_redgry@vk.com
-[instagram]: https://www.instagram.com/egor_redgry/
-[vk]: https://vk.com/egor_redgry
 [tg]: https://t.me/redgry
-[itmo]: https://itmo.ru
+[vk]: https://vk.com/egor_redgry
+[instagram]: https://www.instagram.com/egor_redgry/
+[itmo]: https://itmo.ru/
 
 <!-- Links to tools and languages -->
-[java]: https://www.java.com/
+[java]: https://dev.java/
 [python]: https://www.python.org/
-[kotlin]: https://kotlinlang.org/
 [cplusplus]: https://cplusplus.com/
-[csharp]: https://learn.microsoft.com/en-us/dotnet/csharp/
+[kotlin]: https://kotlinlang.org/
+[spring]: https://spring.io/
+[fastapi]: https://fastapi.tiangolo.com/
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[sass]: https://sass-lang.com/
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[jquery]: https://jquery.com/
+[react]: https://react.dev/
+[vuejs]: https://vuejs.org/
+[mysql]: https://www.mysql.com/
+[postgresql]: https://www.postgresql.org/
+[influxdb]: https://docs.influxdata.com/influxdb3/
+[mongodb]: https://www.mongodb.com/
+[oracle]: https://www.oracle.com/database/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[gitlab]: https://about.gitlab.com/
+[bitbucket]: https://bitbucket.org/product/
+[bash]: https://savannah.gnu.org/projects/bash/
+[docker]: https://www.docker.com/
+[kubernetes]: https://kubernetes.io/
+[jetbrains]: https://www.jetbrains.com/
+[figma]: https://www.figma.com/
+[selenium]: https://www.selenium.dev/
+[sonarqube]: https://www.sonarsource.com/products/sonarqube/
+[codex]: https://github.com/openai/codex
+[cursor]: https://cursor.com/
